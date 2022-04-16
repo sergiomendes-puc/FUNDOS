@@ -1,11 +1,7 @@
-<!DOCTYPE html>
-<!DOCTYPE html>
-<html lang="en">
 <head>
     <meta charset="UTF-8">
     <link rel="stylesheet" href="style.css">
 </head>
-</html>
 
 # CANTOS TERESIANOS
 ## _Companhia de Santa Teresa de Jesus_
