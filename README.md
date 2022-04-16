@@ -1,7 +1,5 @@
-<head>
-    <meta charset="UTF-8">
-    <link rel="stylesheet" href="style.css">
-</head>
+<meta charset="UTF-8">
+<link rel="stylesheet" href="style.css">
 
 # CANTOS TERESIANOS
 ## _Companhia de Santa Teresa de Jesus_
