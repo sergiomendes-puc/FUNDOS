@@ -1,10 +1,3 @@
-```html
-<style> 
-  body {
-  background-color: #CCCCFF;
-  }
-</style>
-```
 
 # CANTOS TERESIANOS
 ## _Companhia de Santa Teresa de Jesus_
