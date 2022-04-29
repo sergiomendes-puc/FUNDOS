@@ -1,6 +1,7 @@
 ```html
 <style> 
-  body {background-color: #CCCCFF;
+  body {
+  background-color: #CCCCFF;
   }
 </style>
 ```
